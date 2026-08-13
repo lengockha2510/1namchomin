@@ -1,0 +1,23 @@
+{
+  "name": "love-clone",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^12.7.0",
+    "aos": "^2.3.4",
+    "nuxt": "^3.17.4",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.3"
+  }
+}
