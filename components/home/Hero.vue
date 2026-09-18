@@ -41,7 +41,7 @@
         <button
             @click="scrollNext"
         >
-            Start Journey
+            Được rồi đi thôi
         </button>
 
     </div>

@@ -12,15 +12,15 @@
 
         <nav>
 
-            <a href="#">Home</a>
+            <a href="#">Trang chủ</a>
 
-            <a href="#countdown">Countdown</a>
+            <a href="#countdown">Đếm ngược</a>
 
-            <a href="#timeline">Timeline</a>
+            <a href="#timeline">Mốc thời gian</a>
 
-            <a href="#gallery">Gallery</a>
+            <a href="#gallery">Trưng bày</a>
 
-            <a href="#letter">Letter</a>
+            <a href="#letter">Lời nói</a>
 
         </nav>
 
