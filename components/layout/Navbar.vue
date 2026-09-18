@@ -68,7 +68,7 @@ font-family:"Dancing Script";
 
 font-size:40px;
 
-color:white;
+color:black;
 
 }
 
@@ -82,7 +82,7 @@ gap:35px;
 
 nav a{
 
-color:white;
+color:black;
 
 text-decoration:none;
 

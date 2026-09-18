@@ -32,9 +32,9 @@
 
         <p>
 
-            Every love story is beautiful,
+            Mỗi câu chuyện tình đều đẹp,
 
-            but ours is my favorite.
+            nhưng chuyện chúng mình là câu chuyện đặc biệt nhất với anh.
 
         </p>
 
