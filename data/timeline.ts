@@ -24,76 +24,83 @@ export const timeline: TimelineItem[] = [
   },
   {
     id: 3,
+    date: '07/10/2025',
+    title: 'Món quà handmade đầu tiên anh làm để tặng em',
+    description: 'Đây là món quà tự tay anh làm đầu tiên tặng cho em.',
+    image: '/images/12.jpg'
+  },
+  {
+    id: 4,
     date: '09/10/2025',
     title: 'Anh tỏ tình với em',
     description: 'Anh nhớ hôm đó anh nói mãi em mới chịu đi chơi cùng anh rồi anh cũng tỏ tình với em...Nhưng mà đèo mẹ em deo đồng ý và đến bây giờ Vẫn chưa =)).',
     image: '/images/3.jpg'
   },
   {
-    id: 4,
+    id: 5,
     date: '12/10/2025',
     title: 'Bữa ăn đầu tiên anh nấu cho em',
     description: 'Ăn tối cũng bữa tối =))',
     image: '/images/7.jpg'
   },
   {
-    id: 5,
+    id: 6,
     date: '30/10/2025',
     title: 'Đón em Quýt về nuôi',
     description: 'Mãi mới tìm được 1 con mồm lèo mà 2 đứa đều thích',
     image: '/images/8.jpg'
   },
   {
-    id: 6,
+    id: 7,
     date: '13/11/2025',
     title: 'Bức ảnh đầu tiên chụp cùng nhau',
     description: 'Hôm đấy mua được ốp đôi nên chụp choẹt tý',
     image: '/images/10.jpg'
   },
   {
-    id: 7,
+    id: 8,
     date: '23/11/2025',
     title: 'Chuyến đi đầu tiên của chúng mình',
     description: 'Ba Vì ơiiiii chúng tôi tới đây.',
     image: '/images/4.jpg'
   },
   {
-    id: 8,
+    id: 9,
     date: '30/11/2025',
     title: 'Tam đảo đê',
     description: 'Hôm đấy đi chơi vui vcl.',
     image: '/images/6.jpg'
   },
   {
-    id: 9,
+    id: 10,
     date: '08/12/2025',
     title: 'Đón thêm em Táo',
     description: 'Chỉ vì 1 mình sợ Quýt một mình buồn nên mới đón thêm thằng đầu hai mái dái âm dương về chơi cùng.',
     image: '/images/9.jpg'
   },
   {
-    id: 10,
+    id: 11,
     date: '11/01/2026',
     title: 'Đi chụp ảnh cho em',
     description: 'Hôm đấy bảnh quá nên có mấy em gái đi qua khen đẹp trai hẹ hẹ hẹ.',
     image: '/images/5.jpg'
   },
   {
-    id: 11,
+    id: 12,
     date: '16/05/2026',
     title: 'Lần đầu tiên đi chụp photo book',
     description: 'Lần đầu tiên của đời t luôn ạ.',
     image: '/images/11.jpg'
   },
   {
-    id: 12,
+    id: 13,
     date: '12/08/2026',
     title: 'Em đi vào Nam chơi với cả nhà',
     description: 'Bốn ngày không call với nhau nhớ vcl nhớ.',
-    image: '/images/.jpg'
+    image: '/images/13.jpg'
   },
   {
-    id: 13,
+    id: 14,
     date: '09/10/2026',
     title: 'Một năm bên nhau',
     description: 'Một năm qua có quá nhiều thứ thay đổi nhưng chúng ta vẫn luôn bước cùng nhau.',

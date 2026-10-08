@@ -52,11 +52,13 @@ Cảm ơn em vì đã xuất hiện trong cuộc đời anh.
 
 Từng ngày bên em đều trở thành một kỷ niệm đẹp.
 
-Dù sau này có bao nhiêu khó khăn,
+Dù mình có những lúc giận hờn, cãi vã nhưng anh vẫn luôn trân trọng từng khoảnh khắc bên em anh vẫn muốn nắm tay em và đi hết chặng đường.
 
-anh vẫn muốn nắm tay em và đi hết chặng đường.
+Anh cảm ơn em vì đã luôn ở bên anh, yêu thương anh và chấp nhận con người anh.
 
 Yêu em ❤️
+
+                                            Nhái iuuu của Min ❤️
 
 `
 
