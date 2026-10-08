@@ -23,11 +23,11 @@
     <div class="container hero-content">
 
         <h2 class="sub">
-            Welcome To
+            Chào Em, Người Con Gái Anh Yêu Đến Với
         </h2>
 
         <h1>
-            Our Love Story
+            Chuyện Tình Của Chúng Mình
         </h1>
 
         <p>

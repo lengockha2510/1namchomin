@@ -14,7 +14,7 @@ class="title"
 
 data-aos="fade-up">
 
-Together Countdown
+Đếm Ngược
 
 </h2>
 
